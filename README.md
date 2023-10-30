@@ -1,4 +1,4 @@
-### [Hi there, I'm Paul Okoli👋](/PaulPextra/README.md)
+### [Hi there, I'm Paul Okoli👋](./README.md)
 
 I am a software engineer in Lagos, Nigeria.
 
