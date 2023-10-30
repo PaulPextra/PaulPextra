@@ -1,4 +1,4 @@
-# [Hi there, I'm Paul Okoli👋](https://github.com/PaulPextra#hi-there-im-paul-okoli-)
+# [Hi there! I'm Paul Okoli👋](https://github.com/PaulPextra#hi-there-im-paul-okoli-)
 
 I am a software engineer in Lagos, Nigeria.
 
