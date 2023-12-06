@@ -7,7 +7,6 @@ What sort of work I do?
 - 👨‍💻 Backend development.
 - 🤔 API architecture and design.
 - 🌱 Software development.
-- 🏰 Systems architecture.
 
 I'm currently working on...
 
